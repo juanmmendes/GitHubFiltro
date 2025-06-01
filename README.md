@@ -306,19 +306,7 @@ const GITHUB_TOKEN = 'seu_token_aqui';
 
 </details>
 
-### ⚡ **Animações Customizáveis**
 
-```css
-/* 🌧️ Velocidade da chuva de código */
-@keyframes matrixFall {
-  0% { transform: translateY(-100vh); opacity: 1; }
-  100% { transform: translateY(100vh); opacity: 0; }
-}
-
-/* ✨ Duração: 3s (modifique para ajustar) */
-.matrix-rain {
-  animation: matrixFall 3s linear infinite;
-}
 ```
 
 ---
