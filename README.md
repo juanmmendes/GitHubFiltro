@@ -443,9 +443,9 @@ Você é oficialmente um **🦾 CYBER EXPLORER**!
 
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=juanmmendes.github-explorer)
-![Stars](https://img.shields.io/github/stars/juanmmendes/github-explorer?style=social)
-![Forks](https://img.shields.io/github/forks/juanmmendes/github-explorer?style=social)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=juanmmendes.GitHubFiltro)
+![Stars](https://img.shields.io/github/stars/juanmmendes/GitHubFiltro?style=social)
+![Forks](https://img.shields.io/github/forks/juanmmendes/GitHubFiltro?style=social)
 
 **⭐ Se você gostou do projeto, deixe uma estrela! ⭐**
 
