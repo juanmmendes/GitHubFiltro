@@ -133,7 +133,7 @@ open index.html
 <td align="center" width="33%">
 
 ### 1️⃣ **DIGITE**
-<img src="https://via.placeholder.com/150x100/00ff41/000000?text=USERNAME" alt="Step 1">
+
 
 Digite o **username** do GitHub que deseja explorar
 
@@ -141,7 +141,7 @@ Digite o **username** do GitHub que deseja explorar
 <td align="center" width="33%">
 
 ### 2️⃣ **ESCANEIE**
-<img src="https://via.placeholder.com/150x100/00d4ff/000000?text=SCAN" alt="Step 2">
+
 
 Clique em **"SCAN PROFILE"** e aguarde a magia acontecer
 
@@ -149,7 +149,7 @@ Clique em **"SCAN PROFILE"** e aguarde a magia acontecer
 <td align="center" width="33%">
 
 ### 3️⃣ **EXPLORE**
-<img src="https://via.placeholder.com/150x100/ff0080/000000?text=EXPLORE" alt="Step 3">
+
 
 Navegue pelos **dados** e **repositórios** com estilo!
 
