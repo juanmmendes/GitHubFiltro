@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![GitHub Explorer Banner](https://via.placeholder.com/800x200/0a0a0a/00ff41?text=GITHUB+EXPLORER+🚀)
-
 [![Matrix Style](https://img.shields.io/badge/Style-Matrix-%2300ff41?style=for-the-badge&logo=matrix&logoColor=black)](https://github.com/yourusername/github-explorer)
 [![Futuristic UI](https://img.shields.io/badge/UI-Futuristic-%2300d4ff?style=for-the-badge&logo=spacex&logoColor=white)](https://github.com/yourusername/github-explorer)
 [![Real Time](https://img.shields.io/badge/Data-Real%20Time-%23ff0080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/github-explorer)
