@@ -1,10 +1,25 @@
-
-
 <div align="center">
 
-[![Matrix Style](https://img.shields.io/badge/Style-Matrix-%2300ff41?style=for-the-badge&logo=matrix&logoColor=black)](https://github.com/yourusername/github-explorer)
-[![Futuristic UI](https://img.shields.io/badge/UI-Futuristic-%2300d4ff?style=for-the-badge&logo=spacex&logoColor=white)](https://github.com/yourusername/github-explorer)
-[![Real Time](https://img.shields.io/badge/Data-Real%20Time-%23ff0080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/github-explorer)
+[![Matrix Style](https://img.shields.io/badge/Style-Matrix-%2300ff41?style=for-the-badge&logo=matrix&logoColor=black)](https://github.com/juanmmendes/github-explorer)
+[![Futuristic UI](https://img.shields.io/badge/UI-Futuristic-%2300d4ff?style=for-the-badge&logo=spacex&logoColor=white)](https://github.com/juanmmendes/github-explorer)
+[![Real Time](https://img.shields.io/badge/Data-Real%20Time-%23ff0080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmmendes/github-explorer)
+
+# 🌟 **G I T H U B - E X P L O R E R** 🌟
+```
+  ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
+ ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
+ ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
+ ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
+ ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
+  ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+                                                 
+ ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██████╗ ███████╗██████╗ 
+ ██╔════╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+ █████╗   ╚███╔╝ ██████╔╝██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+ ██╔══╝   ██╔██╗ ██╔═══╝ ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
+ ███████╗██╔╝ ██╗██║     ███████╗╚██████╔╝██║  ██║███████╗██║  ██║
+ ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
 ### 🌟 **_"O futuro da exploração de perfis GitHub chegou!"_** 🌟
 
@@ -12,7 +27,7 @@
 
 ## 🎭 **Uma Experiência Visual Única**
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" height="200">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60%" height="150">
 
 </div>
 
@@ -102,7 +117,7 @@
 
 ```bash
 # 🔥 Clone o repositório
-git clone https://github.com/yourusername/github-explorer.git
+git clone https://github.com/juanmmendes/github-explorer.git
 
 # 📂 Entre na pasta
 cd github-explorer
@@ -134,7 +149,6 @@ open index.html
 
 ### 1️⃣ **DIGITE**
 
-
 Digite o **username** do GitHub que deseja explorar
 
 </td>
@@ -142,14 +156,12 @@ Digite o **username** do GitHub que deseja explorar
 
 ### 2️⃣ **ESCANEIE**
 
-
 Clique em **"SCAN PROFILE"** e aguarde a magia acontecer
 
 </td>
 <td align="center" width="33%">
 
 ### 3️⃣ **EXPLORE**
-
 
 Navegue pelos **dados** e **repositórios** com estilo!
 
@@ -365,23 +377,6 @@ Adoraríamos ter você como parte da nossa **equipe de hackers do futuro**!
 
 ---
 
-## 🐛 **BUGS & ISSUES**
-
-Encontrou um bug? Tem uma ideia épica? 
-
-### 🎯 **Reporte Aqui:**
-
-1. 🔍 **Verifique** se já não foi reportado
-2. 📝 **Abra** uma [nova issue](https://github.com/yourusername/github-explorer/issues)
-3. 🏷️ **Use** as labels apropriadas:
-   - 🐛 `bug` - Para problemas
-   - ✨ `enhancement` - Para melhorias
-   - 💡 `feature-request` - Para novas funcionalidades
-   - 📚 `documentation` - Para docs
-   - ❓ `question` - Para dúvidas
-
----
-
 ## 📄 **LICENÇA**
 
 <div align="center">
@@ -418,19 +413,16 @@ Encontrou um bug? Tem uma ideia épica?
 
 ### 🚀 **CONECTE-SE CONOSCO!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmmendes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oruancomj_)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.zx016@gmail.com)
 
 </div>
 
-### 💬 **Canais de Suporte:**
+### 💬 **Canal de Suporte:**
 
-- 🐛 **Bugs**: [GitHub Issues](https://github.com/yourusername/github-explorer/issues)
-- 💡 **Ideias**: [Discussions](https://github.com/yourusername/github-explorer/discussions)
-- 📧 **Email**: your.email@example.com
-- 💬 **Discord**: `YourUser#1234`
+- 📧 **Email**: juan.zx016@gmail.com
 
 ---
 
@@ -463,9 +455,9 @@ Você é oficialmente um **🦾 CYBER EXPLORER**!
 
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.github-explorer)
-![Stars](https://img.shields.io/github/stars/yourusername/github-explorer?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/github-explorer?style=social)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=juanmmendes.github-explorer)
+![Stars](https://img.shields.io/github/stars/juanmmendes/github-explorer?style=social)
+![Forks](https://img.shields.io/github/forks/juanmmendes/github-explorer?style=social)
 
 **⭐ Se você gostou do projeto, deixe uma estrela! ⭐**
 
@@ -473,6 +465,6 @@ Você é oficialmente um **🦾 CYBER EXPLORER**!
 
 *"In a world of code, be the Matrix." - GitHub Explorer Team 🚀*
 
-**Made with 💚 and lots of ☕ by the GitHub Explorer Team**
+**Made with 💚 and lots of ☕ by Juan Mendes**
 
 </div>
